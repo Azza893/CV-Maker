@@ -1,0 +1,9 @@
+D:\مهم\Project\Project\bin\Debug\Project.exe.config
+D:\مهم\Project\Project\bin\Debug\Project.exe
+D:\مهم\Project\Project\bin\Debug\Project.pdb
+D:\مهم\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\مهم\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\مهم\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\مهم\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\مهم\Project\Project\obj\Debug\Project.exe
+D:\مهم\Project\Project\obj\Debug\Project.pdb
